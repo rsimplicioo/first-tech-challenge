@@ -1,0 +1,15 @@
+br\com\squad3\contrato\controller\exception\ControllerNotFoundException.class
+br\com\squad3\contrato\ContratoApplication.class
+br\com\squad3\contrato\controller\exception\ValidateMessage.class
+br\com\squad3\contrato\service\ContratoService.class
+br\com\squad3\contrato\controller\exception\StandardError.class
+br\com\squad3\contrato\controller\exception\ValidateError.class
+br\com\squad3\contrato\controller\UsuarioController.class
+br\com\squad3\contrato\controller\exception\ControllerExceptionHandler.class
+br\com\squad3\contrato\repository\ContratoRepository.class
+br\com\squad3\contrato\repository\UsuarioRepository.class
+br\com\squad3\contrato\entities\Contrato.class
+br\com\squad3\contrato\controller\ContratoController.class
+br\com\squad3\contrato\dto\ContratoDto.class
+br\com\squad3\contrato\entities\Usuario.class
+br\com\squad3\contrato\service\UsuarioService.class
